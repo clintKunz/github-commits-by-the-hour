@@ -10,5 +10,7 @@ I wanted to see roughly how many hours of _work_ I had committed on Github, so I
 1. Run it using `node index.js [your-github-username] [your-github-access-token]`
 1. Sit and wait
 
+What's your highest commit hour? My is 2pm. 
+
 ## License
 MIT
