@@ -159,3 +159,5 @@ function calculateHours () {
 spinner.set(8);
 spinner.start('Loading Github data ');
 fetchRepos(page);
+
+//test for wakaTime
